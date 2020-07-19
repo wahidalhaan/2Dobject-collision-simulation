@@ -1,4 +1,4 @@
-# ping-pong
+# Object collision-simulation
 ping pong like game using FLTK
 
 Dependencies:
